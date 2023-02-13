@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e92eb372.css",
+    "main.js": "/static/js/main.0853f6f8.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/SqlLogo.png": "/static/media/SqlLogo.85fb38d6773862e917f4.png",
+    "static/media/NodeJSLogo.png": "/static/media/NodeJSLogo.aabc0115471d1e8b2d6e.png",
+    "static/media/ReactLogo.png": "/static/media/ReactLogo.37940586dd863909ffca.png",
+    "static/media/TailwindLogo.png": "/static/media/TailwindLogo.36b2728bf0d14b7b7576.png",
+    "static/media/PythonLogo.png": "/static/media/PythonLogo.2e65c2b73eddaaf97e06.png",
+    "static/media/DockerLogo.png": "/static/media/DockerLogo.6d1afdb456643d603142.png",
+    "static/media/html.png": "/static/media/html.ddd7dc29309efefeb59a.png",
+    "static/media/FirebaseLogo.png": "/static/media/FirebaseLogo.a5f9f1fd96c36040dd43.png",
+    "static/media/css3.png": "/static/media/css3.0a3a96f96228e27a4a5f.png",
+    "static/media/mongodb.png": "/static/media/mongodb.09ad9f9d90c860c669b7.png",
+    "static/media/JsLogo.png": "/static/media/JsLogo.db393457bf6303d846d6.png",
+    "index.html": "/index.html",
+    "main.e92eb372.css.map": "/static/css/main.e92eb372.css.map",
+    "main.0853f6f8.js.map": "/static/js/main.0853f6f8.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e92eb372.css",
+    "static/js/main.0853f6f8.js"
+  ]
+}
