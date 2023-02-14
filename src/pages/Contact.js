@@ -16,7 +16,7 @@ const Contact = () => {
           Currently looking for a new opportunity my inbox is always open, you can contact me by
           clicking on the button below. <br />
           Whether you have a question or just want to say hi, feel free to
-          contact me and I’ll try my best to get back to you, Thank you!
+          contact me and I'll try my best to get back to you, Thank you!
         </code>
         <button className=" border border-lightblue_vs text-lightblue_vs mt-10 p-3 rounded hover:bg-opacity-10 hover:bg-lightblue_vs w-1/2">
           <a href="mailto:chitipat90@gmail.com">

@@ -6,6 +6,7 @@ import Resume from "./Resume";
 import MobileMenu from "./MobileMenu";
 import Header from "./Header";
 import NavBar from "./NavBar";
+import Footer from "./Footer";
 
 const Home = () => {
   const [showPage, setShowPage] = useState("home");
@@ -30,7 +31,8 @@ const Home = () => {
             <Header id="Header" />
             <About id="About" />
             <Resume id="Resume" />
-            <Contact id="Contact" />{" "}
+            <Contact id="Contact" />
+            <Footer id="Footer" />{" "}
           </>
         ) : showPage==="about" ? (
           <About id="About" />
@@ -38,6 +40,8 @@ const Home = () => {
           <Resume id="Resume" />
         ) : showPage==="contact" ? (
           <Contact id="Contact" />
+        ) : showPage==="footer" ? (
+          <Footer id="Footer" />
         ) : null}
       </div>
     </div>

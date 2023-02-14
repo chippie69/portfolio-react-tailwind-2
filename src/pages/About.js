@@ -1,5 +1,5 @@
 import React from "react";
-import { IdentificationIcon, LogoutIcon } from "@heroicons/react/24/solid";
+import { IdentificationIcon } from "@heroicons/react/24/solid";
 
 const PythonLogo = require("../assets/logos/PythonLogo.png");
 const ReactLogo = require("../assets/logos/ReactLogo.png");
@@ -7,7 +7,7 @@ const ReactLogo = require("../assets/logos/ReactLogo.png");
 const JsLogo = require("../assets/logos/JsLogo.png");
 // const NextLogo = require("../assets/logos/NextLogo.png");
 const TailwindLogo = require("../assets/logos/TailwindLogo.png");
-const SqlLogo = require("../assets/logos/SqlLogo.png");
+const SqlLogo = require("../assets/logos/sqldb.png");
 // const ReduxLogo = require("../assets/logos/ReduxLogo.png");
 const FirebaseLogo = require("../assets/logos/FirebaseLogo.png");
 const MongoDBLogo = require("../assets/logos/mongodb.png");
