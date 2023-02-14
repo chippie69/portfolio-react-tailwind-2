@@ -41,7 +41,7 @@ const Resume = () => {
             <code className="text-blue_vs">IT Support</code>
             <br />
             <code className="italic text-sm text-lightblue_vs">
-              Sabuy Leasing Ltd. - Phitsanulok {" "}
+              Sabuy Leasing Co., Ltd. - Phitsanulok {" "}
             </code>
             <br />
             <code className="text-xs text-brown_vs">• Oct 2021 - Present</code>
@@ -61,7 +61,7 @@ const Resume = () => {
             <code className="text-blue_vs">Web Developer</code>
             <br />
             <code className="italic text-sm text-lightblue_vs">
-              AT Pro Group Ltd. - Phitsanulok{" "}
+              AT Pro Group Co., Ltd. - Phitsanulok{" "}
             </code>
             <br />
             <code className="text-xs text-brown_vs">• Oct 2020 - Jan 2021</code>
@@ -80,7 +80,7 @@ const Resume = () => {
             <code className="text-blue_vs">Embedded Engineer</code>
             <br />
             <code className="italic text-sm text-lightblue_vs">
-              Waylar Tect Ltd. - Bangkok{" "}
+              Waylar Tect Co., Ltd. - Bangkok{" "}
             </code>
             <br />
             <code className="text-xs text-brown_vs">• July 2019 - Aug 2020</code>
