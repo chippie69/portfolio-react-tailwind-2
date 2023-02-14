@@ -5,7 +5,7 @@ const GitLogo = require("../assets/logos/github.png");
 const FacebookLogo = require("../assets/logos/facebook.png");
 // const KaggleLogo = require("../assets/logos/KaggleLogo.png");
 const MailLogo = require("../assets/logos/email.png");
-
+const LineLogo = require("../assets/logos/line.png")
 const JSIcon = require("../assets/icons/JSIcon.png");
 // const TSIcon = require("../assets/icons/TSIcon.png");
 
@@ -101,7 +101,14 @@ const LeftBar = () => {
             <a href="https://www.facebook.com/chippie69/">
               <img
                 src={FacebookLogo}
-                alt="Linkedin Logo"
+                alt="Facebook Logo"
+                className="h-10 w-10 text-yellow_vs hover:cursor-pointer hover:h-12 hover:w-12"
+              />
+            </a>
+            <a href="https://line.me/ti/p/dKJRrYXW2o">
+              <img
+                src={LineLogo}
+                alt="Line Logo"
                 className="h-10 w-10 text-yellow_vs hover:cursor-pointer hover:h-12 hover:w-12"
               />
             </a>
