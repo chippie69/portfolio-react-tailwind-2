@@ -15,7 +15,7 @@ const LeftBar = () => {
 
   const WebList = () => (
     <div>
-      <a href="/">
+      <a href="#Header">
         <div className="ml-12 flex items-center hover:cursor-pointer hover:bg-opacity-80 hover:bg-[#2b2a2a] w-60">
           <img
             src={JSIcon}
@@ -25,7 +25,7 @@ const LeftBar = () => {
           <p>Home.js</p>
         </div>
       </a>
-      <a href="/">
+      <a href="#About">
         <div className="ml-12 flex items-center hover:cursor-pointer hover:bg-opacity-80 hover:bg-[#2b2a2a] w-60">
           <img
             src={JSIcon}
@@ -35,7 +35,7 @@ const LeftBar = () => {
           <p>About.js</p>
         </div>
       </a>
-      <a href="/">
+      <a href="#Resume">
         <div className="flex whitespace-nowrap items-center hover:cursor-pointer hover:bg-opacity-80 hover:bg-[#2b2a2a] focus:bg-slate-300 ml-12 w-60">
           <img
             src={JSIcon}
@@ -45,7 +45,7 @@ const LeftBar = () => {
           <p>Resume.js</p>
         </div>
       </a>
-      <a href="/">
+      <a href="#Contact">
         <div className="flex whitespace-nowrap items-center hover:cursor-pointer hover:bg-opacity-80 hover:bg-[#2b2a2a] ml-12 w-60">
           <img
             src={JSIcon}

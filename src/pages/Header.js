@@ -1,6 +1,6 @@
 import React from "react";
 
-import ProfileImg from "../assets/img/profile.JPG"
+import ProfileImg from "../assets/img/profile-crop.png"
 
 function Header() {
   return (
@@ -12,12 +12,13 @@ function Header() {
         <br />
         <code className="text-lightblue_vs">Hi, my name is</code>
         <code className="text-[#e6f1ff] text-5xl mt-5">Chitipat Jirapong</code>
-        <div className="flex justify-center mt-5">
-          <img className="h-64 rounded-full" src={ProfileImg} alt="Bordered avatar" />
-        </div>
+        
         
 
       </div>
+      <code className="flex justify-center mt-10">
+          <img className="h-64 rounded-full p-1 rounded-full ring-2 ring-gray-300 dark:ring-gray-500" src={ProfileImg} alt="Bordered avatar" />
+        </code>
       {/* <button
         className="border border-lightblue_vs text-lightblue_vs mt-10 p-3 rounded hover:bg-opacity-10 hover:bg-lightblue_vs w-1/2"
       >
