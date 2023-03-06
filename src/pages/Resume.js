@@ -45,7 +45,7 @@ const Resume = () => {
         </div>
         <div className="flex flex-row pt-10">
           <div className="w-1/4">
-            <code className="text-yellow_vs">Work</code>
+            <code className="text-yellow_vs">Work #3</code>
           </div>
           <div className="w-3/4">
             <code className="text-blue_vs">IT Support</code>
@@ -57,9 +57,11 @@ const Resume = () => {
             <code className="text-xs text-brown_vs">• Oct 2021 - Present</code>
             <br />
             <code className="text-base">
-              <br />• Providing troubleshooting services for equipment in our compamy more than 120 branches.
+              <br />• Design and Develop API service connect to Webapp with LINE and LIFF (Backend using NodeJS, Frontend using React).
               <br />• Manage, edit and design the company's website with Wordpress.
-              <br />• Design and Develop API service connect to Webapp with LINE and LIFF.
+              <br />• Providing troubleshooting services for equipment in our compamy more than 120 branches.
+              
+              
             </code>
             {/* <div className="grid grid-cols-4 gap-4 flex items-center mt-6"> */}
             <br />
@@ -76,7 +78,7 @@ const Resume = () => {
         </div>
         <div className="flex flex-row pt-10">
           <div className="w-1/4">
-            <code className="text-yellow_vs">Work</code>
+            <code className="text-yellow_vs">Work #2</code>
           </div>
           <div className="w-3/4">
             <code className="text-blue_vs">Web Developer</code>
@@ -106,7 +108,7 @@ const Resume = () => {
         </div>
         <div className="flex flex-row pt-10">
           <div className="w-1/4">
-            <code className="text-yellow_vs">Work</code>
+            <code className="text-yellow_vs">Work #1</code>
           </div>
           <div className="w-3/4">
             <code className="text-blue_vs">Embedded Engineer</code>
