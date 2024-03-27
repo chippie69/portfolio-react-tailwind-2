@@ -34,7 +34,7 @@ const About = () => {
         </div>
         <div className="text-[#a2aabc] text-lg mt-5">
           <code>
-            Hello World 🌏, You can call me 'James' 😉. I'm a developer who like both hardware 💻 and software 👨‍💻. The part of hardware is about IoT 🌐 when graduate project and my first job in Bangkok. It's about GPS modules and sensors of vehicles 🚗. Languages and tools is C++ and a little Python and devices is Rasberry PI, Adruino. Later came to do web developer, both of frontend and backend. Languages and tools is HTML, Jacascript, CSS, frameworks are React, Bootstrap, Tailwind, NodeJS, databases are SQLServer, MongoDB. My hobby is likes to learn all the time about new technology. like camping 🏕️, hiking ⛰️, listening to music 🎼, watching series 📺.
+            Hello World 🌏, You can call me 'James' 😉. I'm a developer who like both hardware 💻 and software 👨‍💻. The part of hardware is about IoT 🌐 when graduate project and my first job in Bangkok. It's about GPS modules and sensors of vehicles 🚗. Languages and tools is C++ and a little Python and devices is Rasberry PI, Adruino. Later came to do web developer, both of frontend and backend. Languages and tools is HTML, Jacascript, CSS, frameworks are React, Bootstrap, Tailwind, NodeJS, databases are SQLServer, MongoDB. My hobby is likes to learn all the time about new technology. I learn every morning in daily.dev for something new. and like camping 🏕️, hiking ⛰️, listening to music 🎼, watching series 📺.
           </code>
           <br />
           <br />

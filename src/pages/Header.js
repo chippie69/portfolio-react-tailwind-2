@@ -17,7 +17,7 @@ function Header() {
 
       </div>
       <code className="flex justify-center mt-10">
-          <img className="h-64 rounded-full p-1 rounded-full ring-2 ring-gray-300 dark:ring-gray-500" src={ProfileImg} alt="Bordered avatar" />
+          <img className="h-64 rounded-full p-1 ring-2 ring-gray-300 dark:ring-gray-500" src={ProfileImg} alt="Bordered avatar" />
         </code>
       {/* <button
         className="border border-lightblue_vs text-lightblue_vs mt-10 p-3 rounded hover:bg-opacity-10 hover:bg-lightblue_vs w-1/2"
